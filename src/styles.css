@@ -2,7 +2,7 @@
     scroll-snap-type: y mandatory;
     scroll-padding: 18px;
     overflow-y: scroll;
-    height: 300px;
+    height: 70vh;
     position: relative;
 }
 
@@ -17,4 +17,8 @@
     color: #fff;
     margin: 0;
     padding: 0;
+}
+#add_button{
+    width: 100px;
+    height: 35px;
 }
